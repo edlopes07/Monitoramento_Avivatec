@@ -1,4 +1,4 @@
-# Mapeamento Avivatec
+# Monitoramento Avivatec
 
 Sistema de monitoramento e análise estratégica de vagas de emprego da **Avivatec**, desenvolvido em Python como projeto acadêmico do **3º termo do curso de Ciência da Computação** em parceria com a empresa.
 
